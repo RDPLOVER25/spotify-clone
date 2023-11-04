@@ -1,4 +1,4 @@
-# Spotify Clone
+# Spotify Clone!
 
 - A clone of the Spotify web app built with React, Recoil, and Firebase.
 
